@@ -1,0 +1,228 @@
+{
+  "about": {
+    "pageTitle": "Despre Mine | SMfit",
+    "pageDescription": "Află mai multe despre Sabina Meruță, fondatoarea SMfit, expertiza și filozofia sa despre fitness și nutriție personalizată.",
+    "mainContent": {
+      "intro1": "Sunt Sabina Meruță, fondatoarea SMfit și antrenoare personală certificată internațional, cu peste 2 ani de experiență în fitness și nutriție.",
+      "intro2": "Pasiunea mea pentru mișcare și artă s-a conturat încă din adolescență, când am obținut diploma de Coregraf și Dansator Profesionist, iar mai târziu am descoperit efectele transformatoare ale antrenamentelor în sala de sport. M-a uimit cum exercițiile regulate, combinate cu o alimentație corectă, pot revitaliza corpul și pot crește semnificativ nivelul de energie.",
+      "intro3": "În prezent, sunt studentă la Facultatea de Farmacie – specializarea Nutriție și Dietetică, din cadrul Universității de Medicină, Farmacie, Științe și Tehnologie \"George Emil Palade\" din Târgu Mureș, și dețin numeroase cursuri internaționale acreditate în fitness și alimentație sănătoasă.",
+      "intro4": "Cu fiecare program personalizat, combin experiența practică, știința nutriției și creativitatea coregrafică pentru a te ajuta să-ți atingi obiectivele!"
+    },
+    "certifications": {
+      "title": "Certificări și Educație",
+      "formal": {
+        "title": "Educație Formală",
+        "items": [
+          "Absolventă a Colegiului Național \"Unirea\"",
+          "Studentă la UMFST, Nutriție și Dietetică"
+        ]
+      },
+      "international": {
+        "title": "Certificări Internaționale",
+        "items": [
+          "Coregraf și Dansator Profesionist", 
+          "Instructor de Fitness Certificat Level 2 și 4, Antrenor de grup"
+        ]
+      }
+    },
+    "partners": {
+      "title": "Partenerii Mei",
+      "scitec": {
+        "description": "Scitec Nutrition furnizează suplimente și echipament sportiv de calitate superioară, optimizate pentru performanță și recuperare eficientă.",
+        "promoCode": "Cod promoțional: SABINAM10",
+        "button": "Descoperă Scitec" 
+      },
+      "gymhyper": {
+        "description": "GymHyper propune îmbrăcăminte și accesorii tehnice inovatoare, concepute pentru confort și susținerea oricărui tip de antrenament.",
+        "promoCode": "Cod promoțional: SABINA",
+        "button": "Vizitează GymHyper"
+      },
+      "cocosolis": {
+        "description": "Cocosolis oferă uleiuri naturale pentru îngrijirea pielii și bronzare. Produsele hidratează, regenerează și sprijină recuperarea pielii după antrenamente, menținând-o sănătoasă.",
+        "promoCode": "Cod promoțional: affsabina",
+        "button": "Vezi Cocosolis"
+      }
+    },
+    "photos": {
+      "title": "Momente din Activitatea Mea"
+    },
+    "cta": "Fă primul pas spre transformare"
+  },
+  "services": {
+    "pageTitle": "Servicii | SMfit",
+    "pageDescription": "Descoperă serviciile personalizate de fitness și nutriție oferite de SMfit pentru a-ți atinge obiectivele de sănătate și formă fizică.",
+    "hero": {
+      "title": "Servicii",
+      "titleAccent": "Personalizate",
+      "subtitle": "Programele SMfit sunt create special pentru a se adapta nevoilor, obiectivelor și stilului tău de viață. Explorează serviciile noastre și alege soluția perfectă pentru tine."
+    },
+    "cta": {
+      "title": "Nu ești sigur ce ți se",
+      "titleAccent": "potrivește?",
+      "subtitle": "Programează o consultație gratuită pentru a discuta despre obiectivele tale și pentru a afla care dintre serviciile noastre este cel mai bine adaptat nevoilor tale.",
+      "button": "Fă primul pas spre transformare"
+    }
+  },
+  "testimonials": {
+    "pageTitle": "Testimoniale | SMfit",
+    "pageDescription": "Descoperă poveștile de succes și feedback-ul clienților SMfit care și-au transformat corpul și obiceiurile cu ajutorul programelor noastre.",
+    "hero": {
+      "title": "Testimoniale",
+      "titleAccent": "Clienți",
+      "subtitle": "Citește experiențele reale ale clienților care și-au transformat corpul și viața cu ajutorul programelor SMfit."
+    },
+    "successStories": {
+      "title": "Povești de",
+      "titleAccent": "Succes",
+      "subtitle": "Transformări reale ale clienților care au urmat programele SMfit și și-au schimbat viața.",
+      "madalina": {
+        "name": "Mădălina I.",
+        "program": "Antrenamente Personale și Nutriție Personalizată - 1 lună",
+        "results": {
+          "weightLost": "Greutate pierdută: 3 kg", 
+          "chestReduced": "Piept redus: 3 cm",
+          "waistReduced": "Talie redusă: 4 cm",
+          "hipsReduced": "Șold redus: 5 cm"
+        },
+        "quote": "Disciplină, seriozitate și încredere îmbinate cu blândețe și calm – așa aș descrie sesiunile de antrenament ale Sabinei. Îți mulțumesc din suflet, Sabina! ❤️"
+      },
+      "carina": {
+        "name": "Carina C.",
+        "program": "Antrenamente Online și Nutriție Personalizată - 8 săptămâni",
+        "results": {
+          "weightLost": "Greutate pierdută: 6 kg",
+          "chestReduced": "Piept redus: 7 cm",
+          "waistReduced": "Talie redusă: 9 cm",
+          "hipsReduced": "Șold redus: 12 cm"
+        },
+        "quote": "Alegerea serviciilor Sabinei s-a dovedit a fi foarte utilă: susținerea ei psihică și programele de antrenament personalizate au adus progres zilnic. Planul alimentar echilibrat face stilul de viață sănătos plăcut și sustenabil."
+      }
+    }
+  },
+  "contact": {
+    "pageTitle": "Contact | SMfit",
+    "pageDescription": "Intră în legătură cu SMfit. Completează formularul de contact sau folosește informațiile de contact pentru a-ți începe călătoria fitness.",
+    "validation": {
+      "nameRequired": "Numele trebuie să aibă cel puțin 2 caractere",
+      "emailInvalid": "Adresa de email nu este validă", 
+      "phoneInvalid": "Numărul de telefon trebuie să înceapă cu 07 și să aibă 10 cifre",
+      "messageRequired": "Mesajul trebuie să aibă cel puțin 10 caractere"
+    }
+  },
+  "terms": {
+    "hero": {
+      "subtitle": "Regulile care guvernează utilizarea site-ului nostru web."
+    },
+    "lastUpdated": "Ultima actualizare",
+    "tableOfContents": "Cuprins",
+    "sections": {
+      "acceptanceOfTerms": {
+        "title": "Acceptarea Termenilor",
+        "label": "Introducere",
+        "content": "Prin accesarea și utilizarea acestui site web, acceptați și sunteți de acord să fiți legat de termenii și prevederile acestui acord. Dacă nu sunteți de acord să respectați cele de mai sus, vă rugăm să nu utilizați acest serviciu."
+      },
+      "useOfWebsite": {
+        "title": "Utilizarea Site-ului",
+        "label": "Reguli",
+        "content1": "Acest site web este destinat utilizării în scopuri informaționale și de afaceri legitime. Nu aveți voie să utilizați site-ul pentru activități ilegale sau neautorizate.",
+        "content2": "Toate informațiile prezentate pe acest site web sunt furnizate cu bună credință și doar în scopuri generale de informare. Nu oferim garanții cu privire la acuratețea, fiabilitatea sau caracterul complet al acestor informații."
+      },
+      "intellectualProperty": {
+        "title": "Proprietate Intelectuală",
+        "label": "Drepturi",
+        "content": "Conținutul acestui site web, inclusiv texte, imagini, logo-uri și design, este protejat de drepturi de autor și alte drepturi de proprietate intelectuală. Nu aveți voie să reproduceți, distribuiți sau utilizați acest conținut fără permisiunea noastră expresă."
+      },
+      "limitationOfLiability": {
+        "title": "Limitarea Răspunderii",
+        "label": "Important",
+        "legalNotice": {
+          "title": "Notă Legală Importantă",
+          "content": "SMfit nu va fi răspunzător pentru orice daune directe, indirecte, incidentale sau consecutive rezultate din utilizarea sau incapacitatea de a utiliza acest site web. Aceasta include, dar nu se limitează la, pierderea profiturilor, datelor sau altor bunuri intangibile."
+        },
+        "content": "Utilizarea serviciilor și informațiilor de pe acest site se face pe propriul risc. Recomandăm consultarea unui specialist înainte de a lua decizii bazate pe informațiile prezentate aici."
+      },
+      "contact": {
+        "title": "Contact",
+        "label": "Întrebări",
+        "content1": "Pentru întrebări legate de acești termeni și condiții, ne puteți contacta la:",
+        "email": "sabinaantrenor@gmail.com",
+        "content2": "Vă vom răspunde la întrebare în cel mai scurt timp posibil."
+      }
+    }
+  },
+  "cookie": {
+    "hero": {
+      "title": "Politica de",
+      "titleAccent": "Cookie-uri",
+      "subtitle": "Informații detaliate despre utilizarea cookie-urilor pe site-ul nostru."
+    },
+    "cookieControl": {
+      "title": "Controlul Cookie-urilor",
+      "description": "Puteți gestiona preferințele pentru cookie-uri direct prin setările browserului dumneavoastră. Pentru informații detaliate despre cum să ștergeți sau să blocați cookie-urile, vizitați",
+      "aboutCookiesLink": "aboutcookies.org",
+      "note": "Vă rugăm să rețineți că restricționarea cookie-urilor poate afecta funcționalitatea anumitor secțiuni ale site-ului."
+    },
+    "tableOfContents": "Cuprins",
+    "sections": {
+      "whatIsCookie": {
+        "title": "Ce este un Cookie?",
+        "label": "Definiție",
+        "content": "Un cookie este un fișier text de mici dimensiuni, format din litere și numere, care va fi stocat pe computerul, terminalul mobil sau alte echipamente ale unui utilizator de pe care se accesează internetul. Cookie-ul este \"pasiv\" (nu conține programe software, viruși sau spyware și nu poate accesa informațiile de pe hard disk-ul utilizatorului)."
+      },
+      "cookieFunctionality": {
+        "title": "Funcționalitatea Cookie-urilor",
+        "label": "Beneficii",
+        "content1": "Activarea cookie-urilor nu este strict necesară pentru funcționarea site-ului web, dar poate îmbunătăți semnificativ experiența dumneavoastră de navigare. Puteți șterge sau bloca cookie-urile, însă, dacă faceți acest lucru, este posibil ca unele funcționalități ale site-ului să nu funcționeze corect.",
+        "content2": "Informațiile asociate cookie-urilor nu sunt utilizate pentru a vă identifica personal. În plus, noi controlăm datele referitoare la preferințele dumneavoastră de navigare. Cookie-urile nu sunt utilizate în alte scopuri decât cele descrise aici."
+      },
+      "additionalCookies": {
+        "title": "Notificare Cookie-uri Suplimentare",
+        "label": "Atenție",
+        "content": "Unele dintre paginile sau sub-site-urile noastre pot utiliza cookie-uri suplimentare sau diferite față de cele descrise mai sus. În acest caz, veți găsi detalii despre cookie-uri pe paginile specifice. De asemenea, vi se poate cere consimțământul pentru stocarea acestora."
+      },
+      "howCookiesWork": {
+        "title": "Cum funcționează Cookie-urile?",
+        "label": "Mecanism",
+        "content1": "Aceste fișiere fac posibilă recunoașterea terminalului utilizatorului și prezentarea conținutului într-un mod relevant, adaptat preferințelor acestuia. Cookie-urile oferă servicii confortabile utilizatorilor, cum ar fi:",
+        "features": [
+          "Preferințe de confidențialitate online",
+          "Coș de cumpărături și funcționalități conexe",
+          "Publicitate relevantă și experiență personalizată"
+        ],
+        "content2": "De asemenea, sunt utilizate în pregătirea statisticilor agregate anonime, care ne ajută să înțelegem modul în care un utilizator beneficiază de paginile noastre web, permițându-ne să îmbunătățim structura și conținutul acestora, excluzând identificarea dumneavoastră personală."
+      },
+      "personalDataSecurity": {
+        "title": "Date Personale și Securitate",
+        "label": "Confidențialitate",
+        "content": "Cookie-urile în sine nu necesită informații personale pentru a fi utilizate și, în majoritatea cazurilor, nu identifică personal utilizatorii de internet. Datele personale colectate prin utilizarea cookie-urilor pot fi colectate doar pentru a facilita anumite funcționalități pentru utilizator. Astfel de date sunt criptate într-un mod care face imposibilă accesarea lor de către persoane neautorizate."
+      },
+      "cookieControl": {
+        "title": "Controlul Cookie-urilor",
+        "label": "Administrare",
+        "content1": "Puteți controla și/sau șterge cookie-urile după cum doriți – pentru detalii, consultați",
+        "aboutCookiesLink": "aboutcookies.org",
+        "content2": " site-ul . Puteți șterge toate cookie-urile din computerul dumneavoastră și puteți seta majoritatea browserelor să blocheze plasarea acestora. Dacă faceți acest lucru, este posibil să fie necesar să setați manual unele preferințe de fiecare dată când vizitați site-ul web. De asemenea, unele servicii sau opțiuni ar putea să nu funcționeze."
+      }
+    },
+    "faq": {
+      "title": "Întrebări Frecvente despre Cookie-uri",
+      "label": "FAQ",
+      "whatIsCookie": "Ce este un cookie?",
+      "whatIsCookieAnswer": "Un cookie este un fișier text mic stocat pe dispozitivul dumneavoastră, care ajută site-ul să funcționeze mai bine și să rețină preferințele dumneavoastră. Nu conține informații personale. Pentru mai multe detalii, consultați secțiunea \"Ce este un Cookie?\".",
+      "whatIsCookieLink": "#ce-este-un-cookie",
+      "disableCookies": "Pot dezactiva cookie-urile?",
+      "disableCookiesAnswer": "Da, puteți dezactiva cookie-urile din setările browserului dumneavoastră. Rețineți însă că acest lucru poate afecta funcționalitatea site-ului. Pentru instrucțiuni, consultați secțiunea \"Controlul Cookie-urilor\".",
+      "disableCookiesLink": "#controlul-cookie-urilor",
+      "privacyImpact": "Cum îmi afectează cookie-urile confidențialitatea?",
+      "privacyImpactAnswer": "Cookie-urile în sine nu vă identifică personal. Ele ajută la personalizarea experienței dumneavoastră online și la colectarea de statistici anonime. Datele personale colectate prin cookie-uri sunt criptate. Mai multe informații găsiți în secțiunea \"Date Personale și Securitate\".",
+      "privacyImpactLink": "#date-personale-si-securitate",
+      "readMore": "Citește mai mult"
+    },
+    "usefulResources": {
+      "title": "Resurse Utile",
+      "label": "Resurse",
+      "allAboutCookies": "Totul Despre Cookie-uri",
+      "yourOnlineChoices": "Opțiunile Tale Online"
+    }
+  }
+}

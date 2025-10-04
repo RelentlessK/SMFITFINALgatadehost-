@@ -1,0 +1,234 @@
+{
+  "about": {
+    "pageTitle": "About Me | SMfit",
+    "pageDescription": "Learn more about Sabina Meruță, founder of SMfit, her expertise and philosophy about fitness and personalized nutrition.",
+    "mainContent": {
+      "intro1": "I'm Sabina Meruță, founder of SMfit and internationally certified personal trainer, with over 2 years of experience in fitness and nutrition.",
+      "intro2": "My passion for movement and art began in adolescence, when I obtained my diploma as Professional Choreographer and Dancer, and later I discovered the transformative effects of gym workouts. I was amazed at how regular exercise, combined with proper nutrition, can revitalize the body and significantly increase energy levels.",
+      "intro3": "Currently, I am a student at the Faculty of Pharmacy – Nutrition and Dietetics, at the University of Medicine, Pharmacy, Sciences and Technology \"George Emil Palade\" in Târgu Mureș, and I hold numerous internationally accredited courses in fitness and healthy eating.",
+      "intro4": "With each personalized program, I combine practical experience, nutrition science and choreographic creativity to help you achieve your goals!"
+    },
+    "certifications": {
+      "title": "Certifications and Education",
+      "formal": {
+        "title": "Formal Education",
+        "items": [
+          "Graduate of \"Unirea\" National College",
+          "Student at UMFST, Nutrition and Dietetics"
+        ]
+      },
+      "international": {
+        "title": "International Certifications", 
+        "items": [
+          "Professional Choreographer and Dancer",
+          "Certified Fitness Instructor Level 2 and 4, Group Trainer"
+        ]
+      }
+    },
+    "partners": {
+      "title": "My Partners",
+      "scitec": {
+        "description": "Scitec Nutrition provides high-quality supplements and sports equipment, optimized for performance and efficient recovery.",
+        "promoCode": "Promo code: SABINAM10", 
+        "button": "Discover Scitec"
+      },
+      "gymhyper": {
+        "description": "GymHyper offers innovative technical clothing and accessories, designed for comfort and support for any type of workout.",
+        "promoCode": "Promo code: SABINA",
+        "button": "Visit GymHyper"
+      },
+      "cocosolis": {
+        "description": "Cocosolis offers natural oils for skin care and tanning. The products hydrate, regenerate and support skin recovery after workouts, keeping it healthy.",
+        "promoCode": "Promo code: affsabina",
+        "button": "See Cocosolis"
+      }
+    },
+    "photos": {
+      "title": "Moments from My Activity"
+    },
+    "cta": "Take the first step towards transformation"
+  },
+  "services": {
+    "pageTitle": "Services | SMfit",
+    "pageDescription": "Discover the personalized fitness and nutrition services offered by SMfit to achieve your health and fitness goals.",
+    "hero": {
+      "title": "Personalized",
+      "titleAccent": "Services",
+      "subtitle": "SMfit programs are created specifically to adapt to your needs, goals and lifestyle. Explore our services and choose the perfect solution for you."
+    },
+    "cta": {
+      "title": "Not sure what",
+      "titleAccent": "suits you?",
+      "subtitle": "Schedule a free consultation to discuss your goals and find out which of our services is best adapted to your needs.",
+      "button": "Take the first step towards transformation"
+    }
+  },
+  "testimonials": {
+    "pageTitle": "Testimonials | SMfit", 
+    "pageDescription": "Discover real success stories and feedback from SMfit clients who have transformed their bodies and habits with our programs.",
+    "hero": {
+      "title": "Client",
+      "titleAccent": "Testimonials",
+      "subtitle": "Read the real experiences of clients who have transformed their bodies and lives with SMfit programs."
+    },
+    "successStories": {
+      "title": "Success",
+      "titleAccent": "Stories",
+      "subtitle": "Real transformations of clients who followed SMfit programs and changed their lives.",
+      "madalina": {
+        "name": "Mădălina I.",
+        "program": "Personal Training and Personalized Nutrition - 1 month",
+        "results": {
+          "weightLost": "Weight lost: 3 kg",
+          "chestReduced": "Chest reduced: 3 cm",
+          "waistReduced": "Waist reduced: 4 cm", 
+          "hipsReduced": "Hips reduced: 5 cm"
+        },
+        "quote": "Discipline, seriousness and confidence combined with gentleness and calm – that's how I would describe Sabina's training sessions. Thank you from the heart, Sabina! ❤️"
+      },
+      "carina": {
+        "name": "Carina C.",
+        "program": "Online Training and Personalized Nutrition - 8 weeks",
+        "results": {
+          "weightLost": "Weight lost: 6 kg",
+          "chestReduced": "Chest reduced: 7 cm",
+          "waistReduced": "Waist reduced: 9 cm",
+          "hipsReduced": "Hips reduced: 12 cm"
+        },
+        "quote": "Choosing Sabina's services proved to be very useful: her psychological support and personalized training programs brought daily progress. The balanced meal plan makes healthy lifestyle pleasant and sustainable."
+      }
+    }
+  },
+  "contact": {
+    "pageTitle": "Contact | SMfit",
+    "pageDescription": "Get in touch with SMfit. Fill out the contact form or use the provided contact information to start your fitness journey.",
+    "validation": {
+      "nameRequired": "Name must be at least 2 characters",
+      "emailInvalid": "Email address is not valid",
+      "phoneInvalid": "Phone number must start with 07 and have 10 digits",
+      "messageRequired": "Message must be at least 10 characters"
+    }
+  },
+  "terms": {
+    "pageTitle": "Terms and Conditions | SMfit",
+    "pageDescription": "Read the terms and conditions governing the use of SMfit website and services.",
+    "hero": {
+      "title": "Terms and",
+      "titleAccent": "Conditions",
+      "subtitle": "The rules governing the use of our website."
+    },
+    "lastUpdated": "Last updated",
+    "tableOfContents": "Table of Contents",
+    "sections": {
+      "acceptanceOfTerms": {
+        "title": "Acceptance of Terms",
+        "label": "Introduction",
+        "content": "By accessing and using this website, you accept and agree to be bound by the terms and provisions of this agreement. If you do not agree to abide by the above, please do not use this service."
+      },
+      "useOfWebsite": {
+        "title": "Use of the Website",
+        "label": "Guidelines",
+        "content1": "This website is intended for use for informational and legitimate business purposes. You may not use the website for illegal or unauthorized activities.",
+        "content2": "All information presented on this website is provided in good faith and for general informational purposes only. We make no warranties about the accuracy, reliability, or completeness of this information."
+      },
+      "intellectualProperty": {
+        "title": "Intellectual Property",
+        "label": "Rights",
+        "content": "The content of this website, including texts, images, logos, and design, is protected by copyright and other intellectual property rights. You may not reproduce, distribute, or use this content without our express permission."
+      },
+      "limitationOfLiability": {
+        "title": "Limitation of Liability",
+        "label": "Important",
+        "legalNotice": {
+          "title": "Important Legal Notice",
+          "content": "SMfit shall not be liable for any direct, indirect, incidental, or consequential damages resulting from the use or inability to use this website. This includes, but is not limited to, loss of profits, data, or other intangible assets."
+        },
+        "content": "Your use of the services and information on this site is at your own risk. We recommend consulting a specialist before making decisions based on the information presented here."
+      },
+      "contact": {
+        "title": "Contact",
+        "label": "Inquiries",
+        "content1": "For questions regarding these terms and conditions, you can contact us at:",
+        "email": "sabinaantrenor@gmail.com",
+        "content2": "We will respond to your inquiry as soon as possible."
+      }
+    }
+  },
+  "cookie": {
+    "pageTitle": "Cookie Policy | SMfit",
+    "pageDescription": "Learn about how SMfit uses cookies on our website, including functionality, privacy, and control options.",
+    "hero": {
+      "title": "Cookie",
+      "titleAccent": "Policy",
+      "subtitle": "Detailed information about the use of cookies on our website."
+    },
+    "cookieControl": {
+      "title": "Cookie Control",
+      "description": "You can manage your cookie preferences directly through your browser settings. For detailed information on how to delete or block cookies, visit",
+      "aboutCookiesLink": "aboutcookies.org",
+      "note": "Please note that restricting cookies may affect the functionality of certain parts of the website."
+    },
+    "tableOfContents": "Table of Contents",
+    "sections": {
+      "whatIsCookie": {
+        "title": "What is a Cookie?",
+        "label": "Definition",
+        "content": "A cookie is a small text file, consisting of letters and numbers, that will be stored on a user's computer, mobile device, or other equipment from which the internet is accessed. A cookie is \"passive\" (it does not contain software, viruses, or spyware and cannot access information on your hard drive)."
+      },
+      "cookieFunctionality": {
+        "title": "Cookie Functionality",
+        "label": "Benefits",
+        "content1": "Enabling cookies is not strictly necessary for the website to function, but it can significantly enhance your browsing experience. You can delete or block cookies, but if you do, some features of the website may not work properly.",
+        "content2": "The information associated with cookies is not used to personally identify you. Additionally, we control the data regarding your browsing preferences. Cookies are not used for purposes other than those described here."
+      },
+      "additionalCookies": {
+        "title": "Additional Cookies Notice",
+        "label": "Note",
+        "content": "Some of our pages or sub-websites may use additional or different cookies than those described above. In such cases, you will find details about these cookies on the specific pages. You might also be asked for your consent regarding their storage."
+      },
+      "howCookiesWork": {
+        "title": "How Do Cookies Work?",
+        "label": "Mechanism",
+        "content1": "These files enable the recognition of the user's device and present content in a relevant way, adapted to the user's preferences. Cookies provide convenient services to users, such as:",
+        "features": [
+          "Online privacy preferences",
+          "Shopping cart and related functionalities",
+          "Relevant advertising and personalized experience"
+        ],
+        "content2": "They are also used in the preparation of anonymous aggregated statistics, which help us understand how users interact with our web pages, allowing us to improve their structure and content, without personally identifying you."
+      },
+      "personalDataSecurity": {
+        "title": "Personal Data & Security",
+        "label": "Privacy",
+        "content": "Cookies themselves do not require personal information to be used and, in most cases, do not personally identify internet users. Personal data collected through the use of cookies may only be collected to facilitate certain functionalities for the user. Such data is encrypted in a way that makes it impossible for unauthorized persons to access it."
+      },
+      "cookieControlSection": {
+        "title": "Cookie Control",
+        "label": "Management",
+        "content1": "You can control and/or delete cookies as you wish – for details, see the",
+        "aboutCookiesLink": "aboutcookies.org",
+        "content2": "website. You can delete all cookies from your computer and set most browsers to block their placement. If you do this, you may need to manually set some preferences each time you visit the website. Also, some services or options may not work."
+      }
+    },
+    "faq": {
+      "title": "Frequently Asked Questions about Cookies",
+      "label": "FAQ",
+      "whatIsCookie": "What is a cookie?",
+      "whatIsCookieAnswer": "A cookie is a small text file stored on your device that helps the website function better and remember your preferences. It does not contain personal information. For more details, see the \"What is a Cookie?\" section.",
+      "whatIsCookieLink": "#what-is-a-cookie",
+      "disableCookies": "Can I disable cookies?",
+      "disableCookiesAnswer": "Yes, you can disable cookies through your browser settings. However, please note that this may affect the website's functionality. For instructions, refer to the \"Cookie Control\" section.",
+      "disableCookiesLink": "#cookie-control",
+      "privacyImpact": "How do cookies affect my privacy?",
+      "privacyImpactAnswer": "Cookies themselves do not personally identify you. They help personalize your online experience and collect anonymous statistics. Personal data collected via cookies is encrypted. Find more information in the \"Personal Data & Security\" section.",
+      "privacyImpactLink": "#personal-data-security",
+      "readMore": "Read more"
+    },
+    "usefulResources": {
+      "title": "Useful Resources",
+      "label": "Resources",
+      "allAboutCookies": "All About Cookies",
+      "yourOnlineChoices": "Your Online Choices"
+    }
+  }
+}

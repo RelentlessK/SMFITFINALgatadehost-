@@ -1,0 +1,314 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 0 0% 3.9%;
+    --card: 0 0% 100%;
+    --card-foreground: 0 0% 3.9%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 0 0% 3.9%;
+    --primary: 350 100% 88%;
+    --primary-foreground: 0 0% 98%;
+    --secondary: 0 0% 96.1%;
+    --secondary-foreground: 0 0% 9%;
+    --muted: 0 0% 96.1%;
+    --muted-foreground: 0 0% 45.1%;
+    --accent: 0 0% 96.1%;
+    --accent-foreground: 0 0% 9%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 0 0% 89.8%;
+    --input: 0 0% 89.8%;
+    --ring: 0 0% 3.9%;
+    --radius: 0.5rem;
+    
+    /* Baby pink palette for icons - Enhanced for better visibility */
+    --baby-pink-primary: hsl(340, 75%, 85%);
+    --baby-pink-secondary: hsl(335, 100%, 92%);
+    --baby-pink-accent: hsl(340, 75%, 82%);
+    --baby-pink-bright: hsl(335, 100%, 90%);
+  }
+ 
+  .dark {
+    --background: 0 0% 3.9%;
+    --foreground: 0 0% 98%;
+    --card: 0 0% 3.9%;
+    --card-foreground: 0 0% 98%;
+    --popover: 0 0% 3.9%;
+    --popover-foreground: 0 0% 98%;
+    --primary: 346 77% 79%;
+    --primary-foreground: 0 0% 9%;
+    --secondary: 0 0% 14.9%;
+    --secondary-foreground: 0 0% 98%;
+    --muted: 0 0% 14.9%;
+    --muted-foreground: 0 0% 63.9%;
+    --accent: 0 0% 14.9%;
+    --accent-foreground: 0 0% 98%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 0 0% 14.9%;
+    --input: 0 0% 14.9%;
+    --ring: 0 0% 83.1%;
+    
+    /* Baby pink palette stays similar but slightly adjusted for dark mode */
+    --baby-pink-primary: hsl(340, 75%, 85%);
+    --baby-pink-secondary: hsl(335, 100%, 92%);
+    --baby-pink-accent: hsl(340, 75%, 82%);
+    --baby-pink-bright: hsl(335, 100%, 90%);
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+/* Custom navigation active state */
+.nav-link {
+  position: relative;
+  color: inherit;
+  transition: all 0.3s ease;
+}
+
+.nav-link.active {
+  color: #FF69B4;
+}
+
+.nav-link.active::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: -2px;
+  width: 100%;
+  height: 2px;
+  background: #FF69B4;
+}
+
+.section-spacing {
+  @apply py-16 md:py-24;
+}
+
+/* Animations */
+.reveal {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.5s ease, transform 0.5s ease;
+}
+
+.reveal.active {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Vortex effect styles */
+.vortex-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  pointer-events: none;
+  transition: opacity 0.8s ease-in-out;
+}
+
+/* Fixed icon styles */
+.fixed-icon {
+  position: fixed;
+  z-index: 500;
+  opacity: 0.25;
+  width: clamp(24px, 2vw, 32px);
+  filter: drop-shadow(0 2px 4px rgba(0,0,0,0.1)) brightness(105%);
+  transition: all 0.3s cubic-bezier(0.4,0,0.2,1);
+  mix-blend-mode: multiply;
+  --spacing: clamp(180px, 15vw, 280px);
+  pointer-events: none;
+  backface-visibility: hidden;
+  transform-style: preserve-3d;
+  will-change: transform, opacity;
+  animation-fill-mode: both;
+  animation-duration: 45s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in-out;
+}
+
+.fixed-icon-animate-1 {
+  animation-name: float-subtle;
+}
+
+.fixed-icon-animate-2 {
+  animation-name: float-subtle-alt;
+}
+
+@keyframes float-subtle {
+  0%, 100% {
+    transform: translateY(0) rotate(var(--rotation, 0deg)) scale(var(--scale, 1)) translateZ(0);
+  }
+  25% {
+    transform: translateY(-8px) rotate(calc(var(--rotation, 0deg) + 2deg)) scale(var(--scale, 1)) translateZ(0);
+  }
+  50% {
+    transform: translateY(5px) rotate(calc(var(--rotation, 0deg) - 1deg)) scale(var(--scale, 1)) translateZ(0);
+  }
+  75% {
+    transform: translateY(-3px) rotate(calc(var(--rotation, 0deg) + 1deg)) scale(var(--scale, 1)) translateZ(0);
+  }
+}
+
+@keyframes float-subtle-alt {
+  0%, 100% {
+    transform: translateY(0) rotate(var(--rotation, 0deg)) scale(var(--scale, 1)) translateZ(0);
+  }
+  30% {
+    transform: translateY(6px) rotate(calc(var(--rotation, 0deg) - 2deg)) scale(var(--scale, 1)) translateZ(0);
+  }
+  60% {
+    transform: translateY(-4px) rotate(calc(var(--rotation, 0deg) + 1deg)) scale(var(--scale, 1)) translateZ(0);
+  }
+  80% {
+    transform: translateY(2px) rotate(calc(var(--rotation, 0deg) - 1deg)) scale(var(--scale, 1)) translateZ(0);
+  }
+}
+
+.fixed-icon:hover {
+  opacity: 0.9 !important;
+  transform: scale(1.25);
+  cursor: crosshair;
+  filter: brightness(130%) saturate(160%);
+  pointer-events: auto;
+}
+
+/* Responsive grid density for different screen sizes */
+@media (max-width: 1440px) {
+  .fixed-icon {
+    --spacing: clamp(150px, 10vw, 220px);
+  }
+}
+
+@media (max-width: 768px) {
+  .fixed-icon {
+    --spacing: clamp(120px, 8vw, 180px);
+    width: clamp(20px, 1.8vw, 28px);
+  }
+}
+
+@media (max-width: 480px) {
+  .fixed-icon {
+    --spacing: clamp(100px, 6vw, 150px);
+    width: clamp(18px, 1.5vw, 24px);
+  }
+}
+
+/* Hide icons in homepage hero section */
+.homepage-hero ~ .fixed-icon {
+  display: none !important;
+}
+
+/* Reduced motion preference */
+@media (prefers-reduced-motion: reduce) {
+  .vortex-container canvas {
+    display: none;
+  }
+  
+  .fixed-icon {
+    transition: opacity 0.3s ease;
+    transform: none !important;
+    animation: none !important;
+  }
+  
+  .fixed-icon:hover {
+    transform: none !important;
+  }
+}
+
+/* Form validation styles */
+@keyframes formErrorShake {
+  0% { transform: translateX(0); }
+  20% { transform: translateX(-5px); }
+  40% { transform: translateX(5px); }
+  60% { transform: translateX(-3px); }
+  80% { transform: translateX(3px); }
+  100% { transform: translateX(0); }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(-5px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.form-error-shake {
+  animation: formErrorShake 0.5s ease-in-out;
+}
+
+.form-field-error {
+  border: 2px solid rgba(255, 0, 0, 0.8) !important;
+  border-radius: 4px;
+  background: rgba(255, 0, 0, 0.05);
+  transition: all 0.3s ease;
+}
+
+.error-message {
+  color: #FF0000;
+  font-size: 0.875rem;
+  margin-top: 0.25rem;
+  animation: fadeIn 0.3s ease-in;
+  position: absolute;
+}
+
+.success-message {
+  color: #28a745;
+  animation: fadeIn 0.3s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+}
+
+/* Mobile menu overlay styles */
+#mobile-menu-overlay {
+  position: fixed !important;
+  inset: 0 !important;
+  background-color: rgba(255, 255, 255, 0.8) !important;
+  backdrop-filter: blur(10px) !important;
+  z-index: 9999 !important;
+  display: flex;
+  flex-direction: column;
+  padding: 1.5rem;
+}
+
+#mobile-menu-overlay .close-btn {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  width: 2rem;
+  height: 2rem;
+  background: transparent;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+  color: #e69db8;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

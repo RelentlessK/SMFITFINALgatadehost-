@@ -1,0 +1,254 @@
+{
+  "nav": {
+    "home": "Acasă",
+    "services": "Servicii",
+    "about": "Despre Mine", 
+    "testimonials": "Testimoniale",
+    "contact": "Contact",
+    "contactButton": "Contactează-mă"
+  },
+  "hero": {
+    "title": "Antrenamente smart. Rezultate reale.",
+    "subtitle": "Antrenamente personalizate, motivație reală — rezultate pe care le poți vedea în săptămâni."
+  },
+  "services": {
+    "title": "Servicii",
+    "titleAccent": "Personalizate",
+    "subtitle": "Alege serviciul care se potrivește cel mai bine nevoilor și obiectivelor tale fitness.",
+    "learnMore": "Află mai multe",
+    "personal": {
+      "title": "Antrenament Personal",
+      "description": "Antrenamente personalizate pentru obiectivele tale, cu monitorizare constantă și ajustări pentru rezultate maxime.",
+      "price": "De la 350 RON / lună",
+      "features": [
+        "Evaluare fizică completă",
+        "Plan personalizat de antrenament",
+        "Monitorizare progres",
+        "Suport nutrițional de bază", 
+        "Ajustări regulate ale planului"
+      ]
+    },
+    "nutrition": {
+      "title": "Nutriție Personalizată",
+      "description": "Plan nutrițional adaptat nevoilor tale metabolice și preferințelor alimentare, pentru rezultate sustenabile.",
+      "price": "De la 70 RON / plan",
+      "features": [
+        "Analiză detaliată a necesarului caloric",
+        "Plan personalizat de mese",
+        "Rețete și alternative",
+        "Ajustări săptămânale",
+        "Suport continuu pe WhatsApp"
+      ]
+    },
+    "online": {
+      "title": "Antrenament Online", 
+      "description": "Antrenamente eficiente de la distanță, cu toate beneficiile unui antrenor personal, dar cu mai multă flexibilitate.",
+      "price": "De la 200 RON / lună",
+      "features": [
+        "Program săptămânal personalizat",
+        "Videoclipuri demonstrative",
+        "Feedback prin înregistrări video",
+        "Consultanță nutrițională",
+        "Ajustări în timp real"
+      ]
+    },
+    "transformation": {
+      "title": "Program Transformare",
+      "description": "Program complet de 12 săptămâni pentru o transformare totală a corpului și a obiceiurilor alimentare.",
+      "price": "De la 500 RON",
+      "features": [
+        "✓ 12 săptămâni de antrenamente progresive",
+        "✓ Plan alimentar flexibil",
+        "✓ Ghiduri video și PDF", 
+        "✓ Acces la comunitate privată",
+        "✓ Check-in săptămânal & feedback personalizat"
+      ]
+    }
+  },
+  "about": {
+    "title": "Despre",
+    "titleName": "Sabina Meruță",
+    "subtitle": "Pasiunea mea este să ajut oamenii să își atingă potențialul maxim prin fitness și nutriție personalizată.",
+    "whoAmI": "Cine ",
+    "whoAmIAccent": "Sunt Eu",
+    "greeting": "Salut!",
+    "intro1": "Sunt Sabina Meruță, fondatoarea SMfit și antrenoare personală certificată internațional (Level 4 și Level 2) cu peste 2 ani de experiență în transformarea corpurilor și vieților clienților mei.",
+    "intro2": "Cred că fiecare persoană merită o abordare unică, personalizată și construită pe principii solide de antrenament și nutriție, adaptată continuu pentru a obține cele mai bune rezultate. Scopul meu este să te susțin în drumul tău către o versiune mai sănătoasă, mai puternică și mai încrezătoare a ta.",
+    "stats": {
+      "certifications": "Certificări Internaționale",
+      "experience": "Ani de Experiență",
+      "clients": "Clienți Transformați", 
+      "workouts": "Antrenamente Efectuate"
+    },
+    "learnMore": "Află mai multe despre mine",
+    "philosophy": "Filosofia Mea",
+    "philosophyIntro": "Filosofia mea se bazează pe câteva principii fundamentale:",
+    "trainerImageAlt": "Sabina Meruță - Antrenor Personal",
+    "principles": {
+      "personalization": {
+        "title": "Personalizare",
+        "description": "Fiecare persoană este unică, cu nevoi, limitări și obiective diferite. De aceea, toate programele mele sunt personalizate 100% pentru fiecare client în parte."
+      },
+      "scientific": {
+        "title": "Abordare Științifică",
+        "description": "Mă bazez pe cercetări științifice actuale și metode dovedite, nu pe tendințe trecătoare sau \"soluții miraculoase\". Eficiența și siguranța sunt prioritare."
+      },
+      "sustainability": {
+        "title": "Sustenabilitate", 
+        "description": "Cred în schimbări sustenabile, nu în soluții temporare. Obiectivul meu este să te ajut să dezvolți obiceiuri sănătoase pe termen lung, nu doar să obții rezultate rapide care nu durează."
+      },
+      "education": {
+        "title": "Vrei să fii următoarea",
+        "titleAccent": "poveste de succes",
+        "titleSuffix": "?",
+        "title": "Educație",
+        "description": "Dincolo de antrenamente și planuri nutriționale, îmi propun să te educ despre corpul tău și să te ajut să înțelegi de ce facem anumite exerciții sau alegeri alimentare."
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Ce Spun",
+    "titleAccent": "Clienții",
+    "titleSuffix": "Noștri",
+    "subtitle": "Rezultatele și experiențele reale ale persoanelor care și-au transformat viața cu SMfit.",
+    "cta": {
+      "title": "Vrei să fii următoarea",
+      "titleAccent": "poveste de succes",
+      "titleSuffix": "?",
+      "subtitle": "Programează o consultație gratuită pentru a discuta despre obiectivele tale și pentru a afla cum te poate ajuta SMfit să le atingi.",
+      "button": "Rezervă-ți prima sesiune gratuită"
+    }
+  },
+  "faq": {
+    "title": "Întrebări",
+    "titleAccent": "Frecvente",
+    "subtitle": "Răspunsuri la cele mai comune întrebări despre antrenamentele și programele noastre."
+  },
+  "cta": {
+    "title": "Pregătit să-ți ",
+    "titleAccent": "transformi",
+    "titleSuffix": "corpul?",
+    "subtitle": "Programează acum o consultație gratuită și începe călătoria către cea mai bună versiune a ta!",
+    "primaryButton": "Rezervă-ți prima sesiune gratuită",
+    "secondaryButton": "Explorează serviciile",
+    "takeFirstStep": "Fă primul pas spre transformare"
+  },
+  "footer": {
+    "description": "Transformă-ți corpul și obiceiurile cu SMfit: antrenamente personalizate și planuri nutriționale adaptate nevoilor tale specifice.",
+    "quickLinks": "Link-uri rapide",
+    "contact": "Contact", 
+    "copyright": "Toate drepturile rezervate."
+  },
+  "contact": {
+    "title": "Contactează",
+    "titleAccent": "-mă",
+    "subtitle": "Ai întrebări sau ești gata să începi? Completează formularul de mai jos sau folosește informațiile de contact pentru a mă contacta direct.",
+    "formTitle": "Hai să luăm",
+    "formTitleAccent": "legătura!",
+    "form": {
+      "name": "Nume Complet",
+      "namePlaceholder": "Nume și prenume",
+      "email": "Email", 
+      "emailPlaceholder": "email@exemplu.com",
+      "phone": "Telefon",
+      "phonePlaceholder": "07XX XXX XXX",
+      "service": "Serviciu de interes",
+      "servicePlaceholder": "Selectează un serviciu (opțional)",
+      "message": "Mesaj",
+      "messagePlaceholder": "Detalii despre obiectivele tale fitness, întrebări sau preferințe",
+      "submit": "Trimite mesaj",
+      "submitting": "Se trimite..."
+    },
+    "info": {
+      "title": "Informații de contact",
+      "schedule": "Program de lucru & Servicii",
+      "hours": {
+        "weekdays": "Luni–Vineri: 08:00–20:00",
+        "saturday": "Sâmbătă: 10:00–18:00",
+        "sunday": "Duminică: 12:00–18:00", 
+        "support": "24/7 asistență prin Mira, chat agent SMfit"
+      }
+    },
+    "success": "Mesaj trimis cu succes!",
+    "successDescription": "Vă vom contacta în cel mai scurt timp posibil.",
+    "error": "Eroare",
+    "errorDescription": "A apărut o eroare. Vă rugăm să încercați din nou."
+  },
+  "seo": {
+    "homeTitle": "SMfit - Antrenamente Personalizate & Nutriție",
+    "homeDescription": "Transformă-ți corpul cu SMfit: antrenamente personalizate online sau live și planuri nutriționale adaptate nevoilor tale.",
+    "pageTitleTemplate": "%s | SMfit"
+  },
+  "footer": {
+    "description": "Transformă-ți corpul și obiceiurile cu SMfit: antrenamente personalizate și planuri nutriționale adaptate nevoilor tale specifice.",
+    "quickLinks": "Link-uri rapide",
+    "contact": "Contact",
+    "copyright": "Toate drepturile rezervate.",
+    "legalPolicies": "Legal & Politici",
+    "termsAndConditions": "Termeni și Condiții",
+    "cookiePolicy": "Politica de Cookie-uri"
+  },
+  "instagram": {
+    "followMe": "Urmărește-mă pe Instagram!"
+  },
+  "testimonials": {
+    "title": "Ce Spun",
+    "titleAccent": "Clienții",
+    "titleSuffix": "Noștri",
+    "subtitle": "Rezultatele și experiențele reale ale persoanelor care și-au transformat viața cu SMfit.",
+    "cta": {
+      "title": "Vrei să fii următoarea ",
+      "titleAccent": "poveste de succes",
+      "titleSuffix": "?",
+      "subtitle": "Programează o consultație gratuită pentru a discuta despre obiectivele tale și pentru a afla cum te poate ajuta SMfit să le atingi.",
+      "button": "Rezervă-ți prima sesiune gratuită"
+    },
+    "items": [
+      {
+        "name": "Ábrán Noémi",
+        "content": "După primele sesiuni cu Sabina, am fost impresionată de modul în care a transformat antrenamentele în experiențe motivante care m-au împins să îmi depășesc limitele. Profesionalismul și energia ei, combinate cu o abordare echilibrată (riguroasă, dar plină de umor), au dus la rezultate vizibile. Sabina nu este doar o antrenoare excepțională, ci și o persoană inspiratoare, esențială în progresul meu!",
+        "image": "https://uyy0kjad2n.ufs.sh/f/qhW01JguYVfwAaKQ1SZQ0b4ElInzCtrpsq9Z18PLKhYvmfWg"
+      },
+      {
+        "name": "Ban Cristina",
+        "content": "Deși tânără, Sabina a demonstrat un profesionalism și o implicare excepționale în munca cu clienții. Prin adaptarea exercițiilor la nevoile individuale (cu rezultate vizibile în zonele vizate) și un program flexibil organizat în jurul disponibilității clienților, îmbină seriozitatea cu o abordare empatică. Punctualitatea și dedicarea ei sunt exemple clare de maturitate și pasiune pentru profesia sa. Menținerea acestei abordări o va păstra cu siguranță ca model în domeniu! 💪✨",
+        "image": "https://uyy0kjad2n.ufs.sh/f/qhW01JguYVfwF9SYi3zSK83YtA9ksOoxrqp0w7WBayJZfEUc"
+      },
+      {
+        "name": "Pruna Maria",
+        "content": "Antrenamentele Sabinei sunt nu doar dinamice și captivante, ci și extrem de eficiente, rezultatele fiind constant vizibile. Prin adaptarea exercițiilor la obiectivele individuale și abordarea ei energică, clienții obțin progrese clare, chiar și în zone specifice. Profesionalismul și dedicarea ei transformă fiecare sesiune într-o investiție valoroasă în sănătate și fitness. 💪",
+        "image": "https://uyy0kjad2n.ufs.sh/f/qhW01JguYVfw6JnPlg17Ftz29kBcUZr3XGmSj8gHhdwu15MD"
+      },
+      {
+        "name": "Graur Anca",
+        "content": "Sabina este o persoană extraordinară – de când am început antrenamentele cu ea, motivația mea pentru sport a crescut vizibil și constant. A reușit să îmi transmită în mod autentic cât de importantă este mișcarea pentru sănătate și bunăstare. Abordarea ei caldă și atentă creează un mediu în care fiecare sesiune este așteptată cu nerăbdare, fără stress sau presiune. Profesionalismul ei se simte în fiecare detaliu, iar progresul nu întârzie să apară.",
+        "image": "https://uyy0kjad2n.ufs.sh/f/qhW01JguYVfw32oGuMHlvbe70hHUZR98FryBTcAa2SXfzO6D"
+      },
+      {
+        "name": "Dan Patricia", 
+        "content": "Sabina se remarcă prin abordarea pozitivă și comunicarea deschisă cu clienții, creând un mediu motivant. Antrenamentele sunt adaptate inteligent la nivelul fiecărei persoane, evitând supraîncărcarea și verificând constant confortul cu greutățile. Planurile alimentare pe care le oferă sunt personalizate, cu porții echilibrate și preparate creative, făcându-le atât eficiente, cât și plăcute. Prin atenția la detalii și flexibilitate, transformă procesul într-unul sustenabil și inspirant! 😊",
+        "image": "https://uyy0kjad2n.ufs.sh/f/qhW01JguYVfwExFgNGSDgqPoXvGR9JfWn2ry0j1HkNKL4eca"
+      },
+      {
+        "name": "Alexandra Maier",
+        "content": "Sabina se distinge prin atenția și dedicarea exemplară, susținute de o expertiză solidă în domeniu. Cu răbdare și înțelegere, adaptează planurile alimentare – echilibrate și accesibile financiar – la nevoile individuale, facilitând tranziția către un stil de viață sănătos. Profesionalismul și abordarea integrată o recomandă cu încredere persoanelor hotărâte să obțină transformări fizice impresionante și durabile. 😊",
+        "image": "https://uyy0kjad2n.ufs.sh/f/qhW01JguYVfwAmlBOJZQ0b4ElInzCtrpsq9Z18PLKhYvmfWg"
+      },
+      {
+        "name": "Bianca Moldovan",
+        "content": "Sabina se remarcă prin implicarea autentică și sprijinul oferit clienților, combinând deschiderea și atenția la nevoile individuale cu motivația necesară pentru finalizarea exercițiilor. Prin dialogul deschis și adaptarea antrenamentelor la preferințe, asigură o experiență plăcută și eficientă. Preocuparea ei constantă pentru sănătatea și dezvoltarea fizică a clienților transformă fiecare sesiune într-un pas concret spre obiective. Colaborarea cu ea este, fără îndoială, o sinergie valoroasă și motivantă! 🌟",
+        "image": "https://uyy0kjad2n.ufs.sh/f/qhW01JguYVfw5ppDTwcEyzLAHqbon5PNrGUuYI0DFfhMR3xj"
+      },
+      {
+        "name": "Rațiu Briana",
+        "content": "Este o adevărată sursă de inspirație. Sabina are o răbdare rar întâlnită, oferă sprijin necondiționat și crede în potențialul fiecărei persoane cu care lucrează, chiar și atunci când acestea își pierd încrederea în sine. Creează o conexiune autentică, motivând dincolo de fizic – iar antrenamentele devin nu doar eficiente, ci momente cheie ale săptămânii. Prezența și energia pozitivă transformă întregul proces într-o experiență valoroasă și plină de sens.",
+        "image": "https://uyy0kjad2n.ufs.sh/f/qhW01JguYVfwPEC8HDFmbvkHjeQB3FJgwOts82ypniXECucW"
+      },
+      {
+        "name": "Andreea Zeceș",
+        "content": "Clienții Sabinei o apreciază pentru sprijinul și îndrumarea oferite cu devotament. Antrenamentele sunt descrise ca experiențe valoroase, iar efortul și profesionalismul ei sunt recunoscute ca stâlpi ai succesului lor. Recunoștința pentru implicarea profundă și energia pozitivă transmisă în fiecare sesiune este unanimă! ❤️🤗",
+        "image": "https://uyy0kjad2n.ufs.sh/f/qhW01JguYVfwHY7JTvj83wx7T1NoIPQpdnG4mgziA5lyZcq0"
+      }
+    ]
+  }
+}
