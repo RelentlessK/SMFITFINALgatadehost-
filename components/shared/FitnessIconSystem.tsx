@@ -1,4 +1,3 @@
-```tsx
 "use client";
 
 import React, { useEffect, useState, useMemo } from "react";
@@ -312,4 +311,3 @@ const FitnessIconSystem: React.FC = () => {
 };
 
 export default FitnessIconSystem;
-```
